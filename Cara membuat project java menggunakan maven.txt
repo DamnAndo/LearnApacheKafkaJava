@@ -1,0 +1,7 @@
+mvn archetype:generate -DgroupId=com.nandosan.test -DartifactId=java-project -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+sumber :
+
+https://mkyong.com/maven/how-to-create-a-java-project-with-maven/
+
+https://agung-setiawan.com/membuat-java-project-dengan-maven/

@@ -1,0 +1,2 @@
+[2021-05-12 14:42:29,010] INFO Processed session termination for sessionid: 0x10000d5cd2e0000 (org.apache.zookeeper.server.PrepRequestProcessor)
+[2021-05-12 14:42:29,016] INFO Closed socket connection for client /127.0.0.1:43248 which had sessionid 0x10000d5cd2e0000 (org.apache.zookeeper.server.NIOServerCnxn)

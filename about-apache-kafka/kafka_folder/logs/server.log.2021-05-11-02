@@ -1,0 +1,3 @@
+[2021-05-11 02:23:26,274] INFO Got user-level KeeperException when processing sessionid:0x1000081e04e0000 type:setData cxid:0x5b zxid:0x2d txntype:-1 reqpath:n/a Error Path:/config/topics/__consumer_offsets Error:KeeperErrorCode = NoNode for /config/topics/__consumer_offsets (org.apache.zookeeper.server.PrepRequestProcessor)
+[2021-05-11 02:59:51,728] INFO Processed session termination for sessionid: 0x1000081e04e0000 (org.apache.zookeeper.server.PrepRequestProcessor)
+[2021-05-11 02:59:51,734] INFO Closed socket connection for client /127.0.0.1:51980 which had sessionid 0x1000081e04e0000 (org.apache.zookeeper.server.NIOServerCnxn)
